@@ -2,7 +2,7 @@
 
 //registration page
 
-include 'index.php';
+include 'indexfour.php';
 
 $mysqli_con = mysqli_connect('localhost', 'root','','the_database');
 
